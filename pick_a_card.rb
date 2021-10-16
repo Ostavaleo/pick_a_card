@@ -1,4 +1,5 @@
+# encoding: utf-8
 values = ['2','3','4','5','6','7','8','9','10','J','Q','K','A']
-suits = ['Diamonds','Hearts','Clubs','Sapdes'] # γ΅¨, —¥ΰΆ¨, ΰ¥αβ¨, ¨ª¨
+suits = ['Diamonds','Hearts','Clubs','Sapdes'] # ΒΓ£Β΅Β¨, β€”Β¥Γ ΒΆΒ¨, Ε Γ Β¥Γ΅ΓΆΒ¨, ΒΒ¨ΒªΒ¨
 
 puts "#{values.sample} of #{suits.sample}"
